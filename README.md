@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Reqres%20Automation%20Test%20Using%20RestAssureds&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=fff"/>
+</p>
+
 # 🧪 REST API Automation Tests – ReqRes
 
 Automated testing project for the **ReqRes API** using **Java**, **RestAssured**, and **JUnit 5**.  
